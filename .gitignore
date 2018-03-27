@@ -4,6 +4,7 @@
 .pydevproject
 .settings
 .coverage
+.idea
 .vagrant*
 *.pyc
 rcfile.*
